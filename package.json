@@ -1,6 +1,6 @@
 {
   "name": "@kgryte/npmignore",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Creates a .npmignore file.",
   "author": {
     "name": "Athan Reines",
