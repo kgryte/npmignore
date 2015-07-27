@@ -1,6 +1,6 @@
 .npmignore
 =========
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][codecov-image]][codecov-url] [![Dependencies][dependencies-image]][dependencies-url]
 
 > Creates a `.npmignore` file.
 
@@ -171,8 +171,8 @@ Copyright &copy; 2015. Athan Reines.
 [travis-image]: http://img.shields.io/travis/kgryte/npmignore/master.svg
 [travis-url]: https://travis-ci.org/kgryte/npmignore
 
-[coveralls-image]: https://img.shields.io/coveralls/kgryte/npmignore/master.svg
-[coveralls-url]: https://coveralls.io/r/kgryte/npmignore?branch=master
+[codecov-image]: https://img.shields.io/codecov/c/github/kgryte/npmignore/master.svg
+[codecov-url]: https://codecov.io/github/kgryte/npmignore?branch=master
 
 [dependencies-image]: http://img.shields.io/david/kgryte/npmignore.svg
 [dependencies-url]: https://david-dm.org/kgryte/npmignore
